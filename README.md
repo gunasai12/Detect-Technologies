@@ -30,8 +30,6 @@ python src/demo_main.py
 open http://localhost:8000
 ```
 
-**Live Demo Running Right Now**: http://localhost:8000/metrics
-
 ## 📊 Live System Performance
 
 ```
@@ -241,4 +239,5 @@ This project demonstrates production-ready AI engineering. Key areas for contrib
 ---
 
 **⭐ If you're impressed by this project, imagine what I can build for your team!**
+
 
