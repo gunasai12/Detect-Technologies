@@ -229,17 +229,16 @@ This project demonstrates production-ready AI engineering. Key areas for contrib
 
 ## 👨‍💻 Author
 
-**Developed by [Your Name]**  
+**Developed by Anumulapally Gunasai**  
 *Senior Computer Vision & Edge AI Engineer*
 
 🔗 **Connect with me:**
-- **LinkedIn**: [your-linkedin-profile]
-- **GitHub**: [your-github-username]
-- **Email**: [your-email@example.com]
-- **Portfolio**: [your-portfolio-website]
+- **LinkedIn**: www.linkedin.com/in/gunasai-anumulapally-8204b3251
+- **Email**: ganumulapally@gmail.com
 
 🎯 **Expertise**: Computer Vision, Edge AI, NVIDIA Technologies, Production Systems
 
 ---
 
 **⭐ If you're impressed by this project, imagine what I can build for your team!**
+
